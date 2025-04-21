@@ -66,6 +66,8 @@ func (ll *LinkedList) DeleteNode(data int) {
 
 
 
+
+
 func main() {
     ll := LinkedList{}
 
